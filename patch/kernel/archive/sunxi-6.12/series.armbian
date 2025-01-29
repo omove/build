@@ -178,3 +178,4 @@
 	patches.armbian/Fix-ghost-touches-on-tsc2007-tft-screen.patch
 	patches.armbian/arm-dts-sun8i-h2-plus-orangepi-zero-fix-usb_otg-dr_mode.patch
 	patches.armbian/bigtereetech-cb1-i2c-gpio-and-ws2812.patch
+	patches.armbian/arm64-dts-sun50i-h616-mangopi-mcore.patch
